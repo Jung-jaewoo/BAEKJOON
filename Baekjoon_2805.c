@@ -19,6 +19,8 @@ int main()
 	binaryserch(arr, N, M);
 	printf("%d", sol);
 	return 0;
+
+	//test
 }
 
 void binaryserch(int* arr, int N, int M) {
