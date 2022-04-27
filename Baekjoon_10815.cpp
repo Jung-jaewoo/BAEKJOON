@@ -4,6 +4,8 @@
 #define fastio ios::sync_with_stdio(0), cin.tie(0), cout.tie(0)
 using namespace std;
 
+// test
+
 int binarysearch(int* arr, int size, int n){
     int left, right, mid;
     left = 0;
