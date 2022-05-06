@@ -25,6 +25,7 @@ build/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
+*.DS_Store
 *.dSYM
 *.VC.opendb
 *_i.c
